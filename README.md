@@ -15,7 +15,7 @@
   <!-- Header / Navbar -->
   <header class="navbar">
     <div class="container">
-      <div class="logo">ASTYL</div>
+      <div> ASTYL </div>
       <nav>
         <ul class="nav-links">
           <li><a href="about.html">About Us</a></li>
@@ -78,8 +78,10 @@
   <!-- Footer -->
   <footer>
     <div class="container">
-      <p>&copy; 2025 ASTYL. All rights reserved.</p>
-      <h4>Website designed by 𝘼𝙩𝙪𝙡 𝙈𝙞𝙨𝙝𝙧𝙖</h4>
+      <p1>  2025 ASTYL. All rights reserved.</p1>
+      <p2> ATUL MISHRA </p2>
+      
+    
     </div>
   </footer>
 
