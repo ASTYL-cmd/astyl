@@ -77,6 +77,7 @@
       <blockquote>
         " ASTYL is my favurite tshirt brand. Comfort given by ASTYL tees is unforgetable. The price is less as compared to the quality of Tees. Thank You ASTYL!"
       </blockquote>
+      <img src"ASTYL.png" >
       <p>– Happy Customer</p>
     </div>
   </section>
