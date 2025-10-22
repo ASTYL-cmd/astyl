@@ -12,11 +12,10 @@
   <!-- Header / Navbar -->
   <header class="navbar">
     <div class="container">
-      <div <img src="./ASTYL.png" alt="ASTYL" /> </div> 
+      <div> <img src="./ASTYL.png" alt="ASTYL"/>
       <nav>
         <ul class="nav-links">
-    <li><a href="about.html">About us</a></li>
-
+    <li><a href="about.html">About us</a> </li>
       
         </ul>
       </nav>
