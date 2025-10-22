@@ -76,7 +76,7 @@
       <blockquote>
         " ASTYL is my favurite tshirt brand. Comfort given by ASTYL tees is unforgetable. The price is less as compared to the quality of Tees. Thank You ASTYL!"
       </blockquote>
-      <img src"ASTYL.png" >
+      <img src="./ASTYL.png" alt="ASTYL" style="height:200px; width:auto;"/>
       <p>– Happy Customer</p>
     </div>
   </section>
@@ -85,6 +85,7 @@
   <footer>
     <div class="container">
       <p>&copy; 2025 ASTYL. All rights reserved.</p>
+      <p> Website is designed by 🅰🆃🆄🅻 🅼🅸🆂🅷🆁🅰</p>
     </div>
   </footer>
 </body>
