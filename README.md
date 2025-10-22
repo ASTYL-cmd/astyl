@@ -12,7 +12,7 @@
   <!-- Header / Navbar -->
   <header class="navbar">
     <div class="container">
-      <div <img src"ASTYL.png" > </div> 
+      <div <img src="./ASTYL.png" alt="ASTYL" /> </div> 
       <nav>
         <ul class="nav-links">
     <li><a href="about.html">About us</a></li>
@@ -33,7 +33,7 @@
     </div>
   </section>
 
-  <!-- Experiences Section -->
+ <!-- Experiences Section -->
   <section class="experiences">
     <div class="container">
       <h2>Members of ASTYL</h2>
