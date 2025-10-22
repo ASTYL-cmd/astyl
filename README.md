@@ -12,7 +12,7 @@
   <!-- Header / Navbar -->
   <header class="navbar">
     <div class="container">
-      <div class="logo"> ASTYL </div> 
+      <div <img src"ASTYL.png" > </div> 
       <nav>
         <ul class="nav-links">
     <li><a href="about.html">About us</a></li>
